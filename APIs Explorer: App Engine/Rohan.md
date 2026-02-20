@@ -1,4 +1,4 @@
-# 🌐 APIs Explorer: App Engine || GSP422 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.cloudskillsboost.google/games/6559/labs/41148)
+# 🌐 APIs Explorer: App Engine || GSP422 🚀 
 
 > **Note:** VPC Networks - Controlling Access (GSP213)
 
