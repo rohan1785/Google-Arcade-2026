@@ -32,7 +32,7 @@ sudo chmod +x TechCode.sh
   <h3>follow on Linkdin</h3>
   
   <a href="https://www.linkedin.com/in/rohan-umbare-patil-76b971358/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Prateek%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-Rohan%20Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 
