@@ -15,7 +15,7 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/rohan1785/GoogleArcade2026/refs/heads/main/APIs%20Explorer%3A%20App%20Engine/Rohan.sh
+curl -LO raw.githubusercontent.com/rohan1785/Google-Arcade-2026/refs/heads/main/APIs%20Explorer%3A%20App%20Engine/Rohan.sh
 sudo chmod +x Rohan.sh 
 ./Rohan.sh
 ```
