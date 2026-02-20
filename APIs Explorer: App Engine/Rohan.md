@@ -1,4 +1,4 @@
-# 🌐 APIs Explorer: App Engine || GSP422 🚀 
+# 🌐 APIs Explorer: App Engine || GSP422 
 
 > **Note:** VPC Networks - Controlling Access (GSP213)
 
